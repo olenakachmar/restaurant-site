@@ -5,3 +5,18 @@ body {
   font-family: 'Oxygen', sans-serif;
 	
 }
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+}
+#logo-img{
+	background: url("images/restaurant_logo_image.jpg") no-repeat center;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
+
+}
+#image-sertification{
+	width: 20px;
+}
